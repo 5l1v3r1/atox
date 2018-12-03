@@ -28,7 +28,7 @@ export BOOST_ROOT=/home/dbliu/work/nsChain/Builds/Ubuntu/boost_1_63_0
 > source ~/.bashrc
 ```
 
-## 编译 nschaind
+## 编译
 - 重新进入源码根目录
 ```
 > cd ~/work/nschaind
