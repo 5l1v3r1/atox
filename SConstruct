@@ -1,4 +1,4 @@
-# nschaind SConstruct
+# SConstruct
 #
 '''
 
