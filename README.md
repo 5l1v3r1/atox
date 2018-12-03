@@ -1,5 +1,3 @@
-![NSchain](/images/logo.png)
-
 ## Overview
 
 Basing on the ripple's source code, we added nschain's own database related modules. The DB operating log will be stored in the nschain chain, then you can acquire the visual data in traditional DB.
